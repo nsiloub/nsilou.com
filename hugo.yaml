@@ -49,3 +49,7 @@ params:
     # Hero image (from static/images/___)
     # image: illustrations/worker.svg
     image: hero-image.png
+
+caches:
+  images:
+    dir: :cacheDir/images
